@@ -3,18 +3,20 @@ This repository represents my team's project developed using the Laravel framewo
 
 ## Our Progres
 This project utilizes Bootstrap 5 for its visual appearance. Notes: For now, this website is currently in the prototype stage, with a primary focus on backend development. The initial design serves as a foundation before incorporating the UI design created by our hustler.
+
 ### Login Page
-![Login Page](https://github.com/mfaatihyusron/Web-SponsorQu/review/Sq-login.png)
+![Login Page](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/Sq-login.png)
 ### Register Page
-![Register](https://github.com/mfaatihyusron/Web-SponsorQu/review/sq-reg.png)
+![Register](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-reg.png)
 ### Home Page
-![Home](https://github.com/mfaatihyusron/Web-SponsorQu/review/sq-home.png)
+![Home](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-home.png)
 ### Posting Page
-![Posting Page](https://github.com/mfaatihyusron/Web-SponsorQu/review/sq-postform.png)
+![Posting Page](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-postform.png)
 ### Firebase Authentication
-![Auth](https://github.com/mfaatihyusron/Web-SponsorQu/review/sq-fb-auth.png)
+![Auth](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-auth.png)
 ### Firebase Realtime Database
-![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/review/sq-fb-db rt.png)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-db rt.png)
+
 
 
 
