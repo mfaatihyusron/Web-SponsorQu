@@ -15,7 +15,7 @@ This project utilizes Bootstrap 5 for its visual appearance. Notes: For now, thi
 ### Firebase Authentication
 ![Auth](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-auth.png)
 ### Firebase Realtime Database
-![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-db rt.png)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-db-rt.png)
 
 
 
