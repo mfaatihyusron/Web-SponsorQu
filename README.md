@@ -6,8 +6,8 @@ SponsorQu is a website that connects F&B Company, MSME, and Student Organization
 SponsorQu makes it easy for MSMEs and student organizations to contact F&B companies for sponsorship purposes. In addition, we also provide a place for the three roles to interact through posts. SponsorQu can cut down the time of student organizations in finding funds and can be a way for MSME owners to find new customers and expand their market.
 
 ## Installation
--make sure you have node.js
--open the directori of the project
+-make sure you have node.js <br>
+-open the directori of the project<br>
 -input php artisan serve in the command prompt like a usual laravel project
 
 ## Our Progres
