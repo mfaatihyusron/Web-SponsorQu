@@ -26,10 +26,10 @@ This project utilizes Bootstrap 5 for its visual appearance. Notes: For now, thi
 ### Firebase Realtime Database
 ![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-db-rt.png)
 ### Home
-![Home](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/HOME.PNG)
-![Home 1](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/HOME1.PNG)
+![Home](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/Home.PNG)
+![Home 1](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/Home1.PNG)
 ### Mail
-![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/MAIL.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/Mail.PNG)
 ![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/view-mail.PNG)
 ![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/write-mail.PNG)
 ### Admin
