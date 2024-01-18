@@ -1,6 +1,15 @@
 # Website SponsorQu
 This repository represents my team's project developed using the Laravel framework and utilizing some of Firebase features such as the Firebase Realtime Database and Firebase Authentication. The website aims to facilitate connections between organizations, small and medium enterprises, and companies for potential partnerships.
 
+## Description Product
+SponsorQu is a website that connects F&B Company, MSME, and Student Organizations. Through SponsorQu website, they can establish partnership by simply submitting a proposal or store/product portfolio. 
+SponsorQu makes it easy for MSMEs and student organizations to contact F&B companies for sponsorship purposes. In addition, we also provide a place for the three roles to interact through posts. SponsorQu can cut down the time of student organizations in finding funds and can be a way for MSME owners to find new customers and expand their market.
+
+## Installation
+-make sure you have node.js
+-open the directori of the project
+-input php artisan serve in the command prompt like a usual laravel project
+
 ## Our Progres
 This project utilizes Bootstrap 5 for its visual appearance. Notes: For now, this website is currently in the prototype stage, with a primary focus on backend development. The initial design serves as a foundation before incorporating the UI design created by our hustler.
 
@@ -16,6 +25,21 @@ This project utilizes Bootstrap 5 for its visual appearance. Notes: For now, thi
 ![Auth](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-auth.png)
 ### Firebase Realtime Database
 ![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/sq-fb-db-rt.png)
+### Home
+![Home](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/HOME.PNG)
+![Home 1](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/HOME1.PNG)
+### Mail
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/MAIL.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/view-mail.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/write-mail.PNG)
+### Admin
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/dash-admin.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/admin-user.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/edit-user.PNG)
+![Realtime DB](https://github.com/mfaatihyusron/Web-SponsorQu/blob/main/review/delete-user.PNG)
+
+
+
 
 
 
