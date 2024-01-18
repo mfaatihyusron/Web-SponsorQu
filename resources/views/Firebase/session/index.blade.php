@@ -2,12 +2,14 @@
 
 
 @section('content')
+<title>Login - SponsorQu</title>
 
 <div class="container">
     <div class="row">
-        @if(session('status'))
-        <h4 class="alert alert-warning p-2 mb-2">{{session('status')}}</h4>
-        @endif
+    @if(session('status'))
+    <h4 class="alert alert-warning p-2 mb-2 large">{{session('status')}}</h4>
+    @endif
+        
         <!-- @if ($errors->any())
             <div class="alert alert-danger">
                 <ul>

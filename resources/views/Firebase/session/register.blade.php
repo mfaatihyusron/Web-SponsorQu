@@ -2,6 +2,7 @@
 
 
 @section('content')
+<title>Register - SponsorQu</title>
 
 <div class="container">
     <div class="row">
